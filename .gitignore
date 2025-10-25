@@ -144,3 +144,5 @@ dist/
 .env
 .vscode/
 NUL
+cypress/videos/
+cypress/screenshots/
